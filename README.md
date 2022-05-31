@@ -19,8 +19,4 @@ Below are the test data and the projected class for that data:
 
 | Test data        | Classified classes |
 | :-----           | :-----             |
-| Whoever makes or mends, or performs any part of the process of making or mending, or buys, sells or disposes of,
-  any die or instrument, for the purpose of being used, or knowing or having reason to believe that it is intended 
-  to be used, for the purpose of counterfeiting coin, shall be punished with imprisonment of either description for 
-  a term which may extend to three years, and shall also be liable to fine. |'bangladesh','coin','counterfeit','counterfeiting','government','issued','knowingly','punished',
-  'stamp','war' |
+| Whoever makes or mends, or performs any part of the process of making or mending, or buys, sells or disposes of, any die or instrument, for the purpose of being used, or knowing or having reason to believe that it is intended to be used, for the purpose of counterfeiting coin, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine. |'bangladesh','coin','counterfeit','counterfeiting','government','issued','knowingly','punished','stamp','war' |
